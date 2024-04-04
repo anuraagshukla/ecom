@@ -1,0 +1,13 @@
+.primary-color{
+    background-color:#1b284d;
+}
+
+.badge-counter{
+
+        font-size: 20px;
+        background: #ffa601;
+        color: #fff;
+        padding: 0 5px;
+        vertical-align: top;
+    
+}
